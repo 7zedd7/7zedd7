@@ -12,9 +12,7 @@ Web Developer
 * ⚡  Gujarat heat = brain fried for 8 months, coding like a madman the rest. Fair warning.
 
 <a href="https://www.github.com/7zedd7" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/7zedd7?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/patelzeel725" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/patelzeel725?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+src="https://img.shields.io/github/followers/7zedd7?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
